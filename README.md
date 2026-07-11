@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 # Victor Lalive d'Epinay
 
-Biology BSc student at the University of Geneva, moving into computational immunology.
+Biology BSc student at the University of Geneva, moving into computational biology.
+Interested in neurosciences and immunology.
 
 ## Currently
 
